@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("update two");
 		System.out.println("update http://");		
 		System.out.println("演示冲突");
-		System.out.println("解决冲突")；
+		System.out.println("解决冲突");
+		System.out.println("我是分支");
     }
 }
