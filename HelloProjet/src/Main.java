@@ -8,5 +8,7 @@ public class Main {
 		System.out.println("update HelloWorld");
 		System.out.println("update two");
 		System.out.println("updatr http://")
+		System.out.println("ÑÝÊ¾³åÍ»");
+
     }
 }
